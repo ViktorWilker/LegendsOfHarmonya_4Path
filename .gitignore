@@ -1,34 +1,82 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
-*.sln
-*.suo
-*.xcodeproj
-*.xcworkspace
+# --- Diretórios gerados automaticamente ---
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
 
-# Diretórios que não devem ser versionados
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-
-# Ignore arquivos temporários
+# --- Arquivos temporários ---
 *.log
+*.tlog
+*.obj
+*.pch
+*.pdb
 *.tmp
 *.bak
-*.obj
-*.pdb
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
 
-# Ignore arquivos do sistema
+# --- Arquivos de sistema operacional ---
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-# Plugins desnecessários (se for o caso)
+# --- Diretórios comuns de IDE ---
 .vscode/
+.idea/
+*.code-workspace
+
+# --- Arquivos de cache e locks ---
+*.local
+*.lock
+*.pyc
+__pycache__/
+
+# --- Arquivos de configuração pessoais ---
+*.user
+*.userprefs
+*.sublime-workspace
+*.sublime-project
+
+# --- Itens específicos de plugins ou builds ---
+.vs/
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+
+# --- Arquivos de backup Unreal ---
+*.autosave
+*_Backup_*.umap
+*_Backup_*.uasset
+
+# --- Projetos Android (caso use) ---
+/Plugins/Android/Intermediate/
+
+# --- Ignorar arquivos de pacotes de marketplace ---
+/Content/StarterContent/
+# (Remova acima se quiser versionar Starter Content)
+
+# --- Ignorar arquivos do Git configurado pela Unreal ---
+.git/
+
+# --- Ignore arquivos do projeto compilado ---
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+
+# --- Arquivo de projeto local e de build (mas mantenha o .uproject) ---
+*.target
+*.version
+*.modules
+
+# --- Node/NPM, caso esteja usando com UI externa ---
+node_modules/
+package-lock.json
