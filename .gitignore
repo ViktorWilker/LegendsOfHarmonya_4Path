@@ -12,3 +12,23 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Diretórios que não devem ser versionados
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore arquivos temporários
+*.log
+*.tmp
+*.bak
+*.obj
+*.pdb
+
+# Ignore arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Plugins desnecessários (se for o caso)
+.vscode/
