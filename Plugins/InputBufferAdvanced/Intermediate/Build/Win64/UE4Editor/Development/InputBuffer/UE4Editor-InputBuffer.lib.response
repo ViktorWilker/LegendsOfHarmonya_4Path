@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-InputBuffer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Intermediate\Build\Win64\Legends_Of_HarmonyaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Development\InputBuffer\Module.InputBuffer.cpp.obj"
+"C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Development\InputBuffer\Module.InputBuffer.gen.cpp.obj"
+"C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Development\InputBuffer\Default.rc2.res"
+/OUT:"C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Development\InputBuffer\UE4Editor-InputBuffer.lib"

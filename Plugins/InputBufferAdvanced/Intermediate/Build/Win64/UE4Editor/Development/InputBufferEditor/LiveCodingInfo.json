@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InputBufferEditor.cpp.obj": [
+			"DrawableTileSetThumbnailRenderer.cpp.obj",
+			"InputBufferEditor.cpp.obj",
+			"InputBufferIconSetAssetTypeActions.cpp.obj",
+			"InputBufferIconSetFactory.cpp.obj",
+			"InputCommandAssetTypeActions.cpp.obj",
+			"InputCommandFactory.cpp.obj",
+			"InputCommandIconSetAssetTypeActions.cpp.obj",
+			"InputCommandIconSetFactory.cpp.obj",
+			"InputCommandThumbnailRenderer.cpp.obj",
+			"CyclicBufferTest.cpp.obj",
+			"InputBufferIconSetTest.cpp.obj",
+			"InputBufferTest.cpp.obj",
+			"InputCommandIconSetTest.cpp.obj"
+		],
+		"Module.InputBufferEditor.gen.cpp.obj": [
+			"DrawableTileSetThumbnailRenderer.gen.cpp.obj",
+			"InputBufferEditor.init.gen.cpp.obj",
+			"InputBufferIconSetFactory.gen.cpp.obj",
+			"InputCommandFactory.gen.cpp.obj",
+			"InputCommandIconSetFactory.gen.cpp.obj",
+			"InputCommandThumbnailRenderer.gen.cpp.obj"
+		]
+	}
+}

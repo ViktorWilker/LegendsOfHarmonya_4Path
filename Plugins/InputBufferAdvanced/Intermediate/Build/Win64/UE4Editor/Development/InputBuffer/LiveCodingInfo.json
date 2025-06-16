@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InputBuffer.cpp.obj": [
+			"DrawableTileSetInterface.cpp.obj",
+			"InputBuffer.cpp.obj",
+			"InputBufferComponent.cpp.obj",
+			"InputBufferFunctionLibrary.cpp.obj",
+			"InputBufferGlobalAssets.cpp.obj",
+			"InputBufferHUD.cpp.obj",
+			"InputBufferIconSet.cpp.obj",
+			"InputBufferPlayerController.cpp.obj",
+			"InputCommand.cpp.obj",
+			"InputCommandIconSet.cpp.obj"
+		],
+		"Module.InputBuffer.gen.cpp.obj": [
+			"DrawableTileSetInterface.gen.cpp.obj",
+			"InputBuffer.init.gen.cpp.obj",
+			"InputBufferComponent.gen.cpp.obj",
+			"InputBufferFunctionLibrary.gen.cpp.obj",
+			"InputBufferGlobalAssets.gen.cpp.obj",
+			"InputBufferHUD.gen.cpp.obj",
+			"InputBufferIconSet.gen.cpp.obj",
+			"InputBufferPlayerController.gen.cpp.obj",
+			"InputCommand.gen.cpp.obj",
+			"InputCommandIconSet.gen.cpp.obj",
+			"InputHistoryRecordArray.gen.cpp.obj"
+		]
+	}
+}

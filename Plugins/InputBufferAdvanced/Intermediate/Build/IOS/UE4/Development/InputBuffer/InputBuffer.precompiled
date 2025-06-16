@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.InputBuffer.cpp.o",
+		"Module.InputBuffer.gen.cpp.o"
+	]
+}

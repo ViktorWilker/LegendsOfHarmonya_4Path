@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Input Buffer",
+	"Description": "Input Buffering and Command Recognition",
+	"Category": "Input System",
+	"CreatedBy": "Isaac Hsu",
+	"CreatedByURL": "",
+	"DocsURL": "https://ue4inputbuffer.wordpress.com/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6a167c0b560c4315b36fc9fc31c1f02c",
+	"SupportURL": "",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "InputBuffer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac",
+				"IOS",
+				"Android"
+			]
+		},
+		{
+			"Name": "InputBufferEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac"
+			]
+		}
+	]
+}

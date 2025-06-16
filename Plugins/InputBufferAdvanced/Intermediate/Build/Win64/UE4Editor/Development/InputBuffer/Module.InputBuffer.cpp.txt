@@ -1,0 +1,58 @@
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Development\InputBuffer\Definitions.InputBuffer.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/DrawableTileSetInterface.cpp
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\DrawableTileSetInterface.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\DrawableTileSetInterface.generated.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBuffer.cpp
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Public\InputBuffer.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBufferComponent.cpp
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputBufferComponent.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Public\BufferedInputEventKit.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Public\CyclicBuffer.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputHistoryRecordArray.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputHistoryRecordArray.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputBufferComponent.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Public\ArrayKit.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputBufferGlobalAssets.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputBufferGlobalAssets.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputBufferIconSet.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputBufferIconSet.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputBufferPlayerController.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputBufferPlayerController.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputCommand.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputCommandIconSet.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputCommandIconSet.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputCommand.generated.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBufferFunctionLibrary.cpp
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputBufferFunctionLibrary.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputBufferFunctionLibrary.generated.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBufferGlobalAssets.cpp
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBufferHUD.cpp
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Source\InputBuffer\Classes\InputBufferHUD.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\Victor Wilker\Documents\Unreal Projects\Legends_Of_Harmonya\Plugins\InputBufferAdvanced\Intermediate\Build\Win64\UE4Editor\Inc\InputBuffer\InputBufferHUD.generated.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBufferIconSet.cpp
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputBufferPlayerController.cpp
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/InputDelegateBinding.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DynamicBlueprintBinding.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DynamicBlueprintBinding.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputDelegateBinding.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Public\DisplayDebugHelpers.h
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputCommand.cpp
+C:/Users/Victor Wilker/Documents/Unreal Projects/Legends_Of_Harmonya/Plugins/InputBufferAdvanced/Source/InputBuffer/Private/InputCommandIconSet.cpp
