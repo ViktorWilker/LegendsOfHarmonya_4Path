@@ -8,7 +8,7 @@ public class Legends_Of_Harmonya : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore",  "HeadMountedDisplay", "InputBuffer", "NavigationSystem", "GameplayTasks"});
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore",  "HeadMountedDisplay", "InputBuffer", "NavigationSystem", "GameplayTasks", "GameplayTags"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

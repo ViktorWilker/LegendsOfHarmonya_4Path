@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Legends_Of_Harmonya/Characters/BaseCharacter.h"
+#include "Legends_Of_Harmonya/Components/StateManagerComponent.h"
 #include "BasePlayerCharacter.generated.h"
 
 UCLASS()
@@ -29,6 +30,11 @@ public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="Components")
+	UStateManagerComponent* StateManager;
+	
+	virtual void Jump() override;
 	
 protected:
 	virtual void BeginPlay() override;
@@ -40,4 +46,5 @@ protected:
 	void LookUpAtRate(float Rate);
 	
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
 };

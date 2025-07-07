@@ -33,7 +33,9 @@ ABasePlayerCharacter::ABasePlayerCharacter()
 	
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName);
-	FollowCamera->bUsePawnControlRotation = false; 
+	FollowCamera->bUsePawnControlRotation = false;
+
+	StateManager = CreateDefaultSubobject<UStateManagerComponent>(TEXT("StateManager"));
 }
 
 void ABasePlayerCharacter::BeginPlay()
@@ -95,5 +97,11 @@ void ABasePlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 	PlayerInputComponent->BindAxis("LookUpRate", this, &ABasePlayerCharacter::LookUpAtRate);
 
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+}
+
+void ABasePlayerCharacter::Jump()
+{
+	if(StateManager->GetCurrentAction() == (FGameplayTag::RequestGameplayTag("Character.Actions.Dodge"))) {return;}
+	Super::Jump();
 }
 
